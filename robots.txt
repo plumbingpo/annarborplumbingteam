@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://annarborplumbingteam.com/sitemap.xml
